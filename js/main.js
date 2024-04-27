@@ -41,7 +41,7 @@
     getRandomImage() {
       const images = [
         'img/seven.png',
-        'img/art.png',
+        'img/bell.png',
         'img/akashi.png',
       ];
       return images[Math.floor(Math.random() * images.length)];
